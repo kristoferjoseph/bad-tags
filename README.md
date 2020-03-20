@@ -1,2 +1,0 @@
-# bad-tags
-Begin app
